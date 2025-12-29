@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Akash. I’m an Analytics and Product Analyst with about 1.5 years of experience working with SQL, Excel, and Power BI. I’ve primarily worked on data analysis, KPI reporting, and data validation across product, operations, and finance-related workflows, and I enjoy using data to support business decision-making.
+Hi, I’m Akash. I’m an Analytics and Product Analyst with about 2 years of experience working with SQL, Excel, and Power BI. I’ve primarily worked on data analysis, KPI reporting, and data validation across product, operations, and finance-related workflows, and I enjoy using data to support business decision-making.
 
 
 ## 🌐 Socials:
